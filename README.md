@@ -12,5 +12,9 @@ Dirigete dentro del directorio src/ , una vez dentro coloca el comando node inde
 - npm install dotenv --save
 - npm install @notionhq/client
 
+## :ChatBot de Whatsapp
+Link: https://github.com/irvyn2703/chatBotWhatsapp
+
+
 
 
